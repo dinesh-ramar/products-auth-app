@@ -1,3 +1,7 @@
+## Live Demo
+
+https://products-auth-app.vercel.app/
+
 # Products Auth App
 
 A simple React application demonstrating authentication flow using Redux Toolkit and React Router.
